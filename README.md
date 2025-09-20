@@ -42,10 +42,6 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=solnikhil&custom_title=Contribution%20Graph&hide_border=true&theme=github-compact&radius=16" alt="Activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&textColor=777" alt="Joke" />
-</p>
-
 ---
 
 ### 📫 Contact
