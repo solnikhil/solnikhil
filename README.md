@@ -15,10 +15,9 @@
 ---
 
 ### 🧭 About
-I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, and small **automation** tools. I like clean code, reproducible experiments, and shipping fast.
+I tinker with **AI & ML**—building practical **agents**. I like clean code, reproducible experiments, and shipping fast.
 
-- 🔎 Interests: agentic workflows, retrieval quality, prompt tooling, evals  
-- 🧪 Habit: notebook → script → service, with tight feedback loops  
+- 🔎 Interests: Agentic workflows, retrieval quality, prompt tooling, fine tuining
 - 🤝 Open to collabs (AI utilities, dashboards, dev tooling)
 
 ---
