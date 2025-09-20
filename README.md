@@ -1,17 +1,11 @@
-<!-- ========================= SINGLE-FILE AI/ML PROFILE README ========================= -->
 
-<!-- THEME-AWARE WAVY HEADER WITH AI/ML TAGLINE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:8A2BE2,100:00D4FF&text=AI%20%26%20ML&fontAlign=50&fontAlignY=34&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Automation%20%E2%80%A2%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=twinkling" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:FF7A18,100:AF002D&text=AI%20%26%20ML&fontAlign=50&fontAlignY=34&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Automation%20%E2%80%A2%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=fadeIn" />
 </picture>
-
-<!-- NAME ON TOP WITH ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1600&pause=500&center=true&vCenter=true&width=900&lines=Nikhil+Solanki;AI+%26+ML+%7C+Agentic+Systems+%7C+RAG+%7C+Automation" alt="Nikhil Solanki animated" />
 </p>
-
-<!-- SOCIALS / BADGES -->
 <p align="center">
   <a href="https://github.com/solnikhil"><img alt="Followers" src="https://img.shields.io/github/followers/solnikhil?label=Follow&style=for-the-badge"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=solnikhil&style=for-the-badge">
@@ -31,10 +25,8 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
 
 ### ⚙️ Stack (tools you asked for, included)
 <p align="left">
-  <!-- Icons row -->
-  <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux,docker&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux,docker,kiro&perline=12" />
 
-  <!-- Custom badges for Cursor & Kiro IDE -->
 
 
 ---
