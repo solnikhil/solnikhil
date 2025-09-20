@@ -25,7 +25,7 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
 
 ### ⚙️ Stack (tools you asked for, included)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux,docker,kiro&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux&perline=12" />
 
 
 
