@@ -35,16 +35,7 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
   <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux,docker&perline=12" />
 
   <!-- Custom badges for Cursor & Kiro IDE -->
-  <br/>
-  <img src="https://img.shields.io/badge/Cursor-IDE-111111?style=flat&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Kiro-IDE-111111?style=flat&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-1f6feb?style=flat&logo=visualstudiocode&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/TypeScript-Lang-3178C6?style=flat&logo=typescript&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat&logo=python&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Java-Backend-007396?style=flat&logo=openjdk&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/MongoDB-Data-47A248?style=flat&logo=mongodb&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/GitHub-Code-000000?style=flat&logo=github&logoColor=white" height="22" />
-</p>
+
 
 ---
 
