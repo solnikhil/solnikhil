@@ -38,12 +38,10 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solnikhil&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
 </p>
 
-<!-- ACTIVITY GRAPH (no workflows needed) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=solnikhil&custom_title=Contribution%20Graph&hide_border=true&theme=github-compact&radius=16" alt="Activity graph"/>
 </p>
 
-<!-- LIGHT FUN EXTRAS (no setup) -->
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&textColor=777" alt="Joke" />
 </p>
@@ -53,10 +51,8 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
 ### 📫 Contact
 **Email:** nikhilsolanki1403@gmail.com
 
-<!-- THEME-AWARE WAVY FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8A2BE2,100:00D4FF" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF7A18,100:AF002D" />
 </picture>
 
-<!-- ========================= END SINGLE-FILE README ========================= -->
