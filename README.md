@@ -22,7 +22,7 @@ I tinker with **AI & ML**—building practical **agents**. I like clean code, re
 
 ---
 
-### ⚙️ Stack (tools you asked for, included)
+### ⚙️ Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux&perline=12" />
 
