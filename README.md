@@ -44,9 +44,6 @@ I tinker with **AI & ML**—building practical **agents**, **RAG** pipelines, an
 
 ---
 
-### 📫 Contact
-**Email:** nikhilsolanki1403@gmail.com
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8A2BE2,100:00D4FF" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF7A18,100:AF002D" />
