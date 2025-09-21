@@ -19,6 +19,7 @@ I tinker with **AI & ML**—building practical **agents**. I like clean code, re
 
 - 🔎 Interests: Agentic workflows, retrieval quality, prompt tooling, fine tuining
 - 🤝 Open to collabs (AI utilities, dashboards, dev tooling)
+- 🔎 Currently working on private projects! Soon to be public
 
 ---
 
