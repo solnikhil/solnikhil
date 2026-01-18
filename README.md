@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0F2027,100:2C5364&text=Nikhil%20Solanki&fontAlign=50&fontAlignY=34&desc=AI%20%26%20ML%20%7C%20Agentic%20Systems%20%7C%20Automation%20%7C%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:00C6FF,100:0072FF&text=Nikhil%20Solanki&fontAlign=50&fontAlignY=34&desc=AI%20%26%20ML%20%7C%20Agentic%20Systems%20%7C%20Automation%20%7C%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=fadeIn" />
-</picture>
+<p align="center">
+  <img src="temp-banner.png" alt="Banner" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1600&pause=500&center=true&vCenter=true&width=900&lines=Nikhil+Solanki;AI+%26+ML+%7C+Agentic+Systems+%7C+Automation" alt="Nikhil Solanki animated" />
 </p>
