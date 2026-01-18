@@ -1,4 +1,3 @@
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:8A2BE2,100:00D4FF&text=AI%20%26%20ML&fontAlign=50&fontAlignY=34&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Automation%20%E2%80%A2%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=twinkling" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:FF7A18,100:AF002D&text=AI%20%26%20ML&fontAlign=50&fontAlignY=34&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Automation%20%E2%80%A2%20Data%20Pipelines&descAlign=50&descAlignY=66&fontColor=FFFFFF&animation=fadeIn" />
@@ -14,24 +13,23 @@
 
 ---
 
-### 🧭 About
-I tinker with **AI & ML**—building practical **agents**. I like clean code, reproducible experiments, and shipping fast.
+### About
+I am still figuring things out, but I am highly interested in AI and actively learning. I tinker with AI and ML by building practical agents and automation. I like clean code, reproducible experiments, and shipping fast.
 
-- 🔎 Interests: Agentic workflows, retrieval quality, prompt tooling, fine tuining
-- 🤝 Open to collabs (AI utilities, dashboards, dev tooling)
-- 🔎 Currently working on private projects! Soon to be public
+- Interests: Agentic workflows, retrieval quality, prompt tooling, fine tuning
+- Open to: Collaborations on AI utilities, dashboards, and dev tooling
+- Currently: Prototyping private projects and sharing what I learn
 
 ---
 
-### ⚙️ Stack
+### Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,python,java,mongodb,github,vscode,git,linux&perline=12" />
-
-
+</p>
 
 ---
 
-### 🏆 Stats & Activity
+### Stats & Activity
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=solnikhil&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=solnikhil&theme=transparent&hide_border=true" alt="Streak"/>
@@ -48,4 +46,3 @@ I tinker with **AI & ML**—building practical **agents**. I like clean code, re
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8A2BE2,100:00D4FF" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF7A18,100:AF002D" />
 </picture>
-
